@@ -1,0 +1,16 @@
+{
+  "name": "data-structures-implementations",
+  "version": "1.0.0",
+  "description": "Some basic data structures implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "JavaScript"
+  ],
+  "author": "devhowey",
+  "license": "ISC"
+}
